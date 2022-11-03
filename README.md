@@ -1,6 +1,6 @@
 # Desafio Liga Acadêmica de Business Intelligence
 
-Esse desafio foi proposto como parte do processo seletivo da Liga Acadêmica de Business Intelligence da universidade Federal do Vale do São Francisco. 
+Esse desafio foi proposto como parte do processo seletivo da Liga Acadêmica de Business Intelligence da Universidade Federal do Vale do São Francisco. 
 
 Foi recebido uma base de dados de vendas referente a um mês para que fosse feita a análise em cima dos dados.
 
